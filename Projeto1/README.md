@@ -1,4 +1,4 @@
-Projeto I de SO
+# Projeto I de SO
 
 Neste projeto foi implementado um 
 conjunto de algoritmos de escalonamento de 
