@@ -1,7 +1,14 @@
 Projeto I de SO
 
-Neste projeto você deve implementar um 
+Neste projeto foi implementado um 
 conjunto de algoritmos de escalonamento de 
-CPU e escrever um programa que calcula 
+CPU e que calcula 
 uma série de estatísticas baseado nestes 
-algoritmos
+algoritmos.
+
+Os algoritmos de escalonamento a serem 
+implementados são os seguintes:
+FCFS: First-Come, First-Served
+SJF: Shortest Job First
+RR: Round Robin (com quantum = 2).
+
