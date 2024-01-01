@@ -9,6 +9,8 @@ algoritmos.
 Os algoritmos de escalonamento a serem 
 implementados são os seguintes:
 FCFS: First-Come, First-Served
+
 SJF: Shortest Job First
+
 RR: Round Robin (com quantum = 2).
 
